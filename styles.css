@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Caveat';
+	src: url('https://thedoczek.github.io/fizyka/Caveat.ttf');
+	src: url('Caveat.ttf');
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Mynerve';
+	src: url('https://thedoczek.github.io/fizyka/Mynerve.ttf');
+	src: url('Mynerve.ttf');
+	font-style: italic;
+}
+
+* {
+	font-family: Caveat, Mynerve, sans;
+	font-style: italic;
+	font-size: 115%;
+}
